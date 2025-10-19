@@ -1,12 +1,4 @@
-/*package id.ac.polbeng.depandi.test_kelas
 
-class Greeter {
-    fun greet() {
-        println("Hello object world!")
-    }
-}*/
-
-//batassssssssssss
 package id.ac.polbeng.susilo.test_kelas
 
 class Greeter {
