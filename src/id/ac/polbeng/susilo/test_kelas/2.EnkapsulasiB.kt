@@ -5,7 +5,7 @@ class EmployeeA(_id: Int, _name: String, _age: Int) {
         get() = field
     var name: String = _name
         get(){
-            return field.toUpperCase()
+            return field.uppercase()
         }
         set(value) {
             field = value
